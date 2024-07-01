@@ -5,7 +5,9 @@ int main(){
     printf("Enter the value\n");
     scanf("%d",&n);
     for ( i = n; i ; i--)
-    {
+    {   
+        if(i==4)
+        break;
         printf("the value is %d\n",i);
     }
     
