@@ -9,7 +9,7 @@ int main(){
     }
     for (int i = 0; i < 5; i++)
     {
-        printf("the vlaue of the marks for student %d is %d\n",i+1,marks[i]);
+        printf("the value of the marks for student %d is %d\n",i+1,marks[i]);
     }
     
     
